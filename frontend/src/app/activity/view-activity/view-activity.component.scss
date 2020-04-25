@@ -1,0 +1,43 @@
+.top-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1em;
+}
+
+h1 {
+  margin: 1em;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+p {
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+.description{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.activity-name {
+  text-transform: uppercase;
+}
+
+.error-message{
+  background: red;
+  color: white;
+  font-size: 2em;
+  text-align: center;
+}
